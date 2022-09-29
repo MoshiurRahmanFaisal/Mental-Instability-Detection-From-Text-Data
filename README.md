@@ -7,7 +7,7 @@ The project proposes Machine Learning, Deep Learning, Transformer Based Learning
 
 Data is collected from user posts on Reddit using web scraping. There are support groups on Reddit with people wanting to know about and suffering from mental health issues, and experts in those groups give them consultancy. These groups are known as "subreddits." We collected data from each subreddits for every mental state we worked on. There are subreddits specialized in mental health issues such as Bipolar, Schizophrenia, Addiction, Alcoholism, Asperger’s, Neutral, Suicidal Thought, Anxiety, Depression, and Self Harm. All these mental health issues. Web scraping techniques are used in this process. We used Reddit's API to scrape data from Reddit. Using scraping, we scraped 12000 English data from Reddit.
 
-| Class Name | English Data | Bengali Data
+| **Class Name** | **English Data** | **Bengali Data**
 | :-------- | :------- | :------- 
 | Anxiety | 1024 | 991
 | Bipolar | 1024 | 1000
@@ -33,7 +33,7 @@ Data is collected from user posts on Reddit using web scraping. There are suppor
 From the dataset 80% data was used for training and 20% for testing.
 
 
-| Model | Embedding | Accuracy (English) | Accuracy (Bangla)
+| **Model** | **Embedding** | **Accuracy (English)** | **Accuracy (Bangla)**
 | :-------- | :------- | :-------- | :------- 
 | Naïve Bayes | TF-IDF | 60.83% | 52.13%
 | SVM | TF-IDF | 65.63% | 52.62%
