@@ -56,7 +56,7 @@ From the dataset 80% data was used for training and 20% for testing.
 
 ## Explainable AI
 
-#### Text explainer from `LIME` used to explain model's output. 
+#### Text explainer from `LIME` was used to explain model's output. 
 
 
 
